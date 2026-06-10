@@ -2,7 +2,7 @@
 # Deep Learning Portfolio
 
 A six-question portfolio covering classical machine learning,
-deep neural networks, and generative models — applied to healthcare,
+deep neural networks, and generative models applied to healthcare,
 aerospace, computer vision, and natural language tasks.
 
 ## Contents
